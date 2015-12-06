@@ -1,4 +1,4 @@
-package com.effcode.examples.springaop;
+package jolpes.examples.springaop;
 
 import org.springframework.aop.aspectj.annotation.AspectJProxyFactory;
 import org.springframework.util.ClassUtils;

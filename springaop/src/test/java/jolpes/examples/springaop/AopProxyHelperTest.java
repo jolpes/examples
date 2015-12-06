@@ -1,8 +1,10 @@
-package com.effcode.examples.springaop;
+package jolpes.examples.springaop;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
+
+import jolpes.examples.springaop.AopProxyHelper;
 
 public class AopProxyHelperTest {
 

@@ -1,4 +1,4 @@
-package com.effcode.examples.springaop;
+package jolpes.examples.springaop;
 
 public class BarClazz implements BarIface {
     
